@@ -1,4 +1,3 @@
 print('hello my dear friend')
-dbhxvjhsdbx
-kdjbcksjd
-sdjvb
+#"hello пишу на русском ментарий"
+фывапролджйцукенгшщзхячсмтьбю
